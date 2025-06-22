@@ -12,7 +12,7 @@ O objetivo do Desafio de Projeto era criar uma tabela de Excel para declarar o i
 
 
 # Dashboard de Vendas do Xbox com Excel
-Essa atividade é referente ao Desafio de Projeto "Criando um Dashboard de Vendas do Xbox com Excel" da terceira parte do curso Santander - Excel com Inteligência Artificial: 2. Criando Dashboards com Excel.
+Essa atividade é referente ao Desafio de Projeto "Criando um Dashboard de Vendas do Xbox com Excel" da terceira parte do curso Santander - Excel com Inteligência Artificial: 3. Criando Dashboards com Excel.
 
 O objetivo do Desafio de Projeto era criar um dashboard para mostrar as vendas do Xbox com Excel, levando em consideração as vendas mensais e subscrições no Game Pass e Minecraft.
 
